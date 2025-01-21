@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demo1": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\DemonSlayerTemp\\Demo1\\bin\\Debug\\net5.0"
+    }
+  }
+}
